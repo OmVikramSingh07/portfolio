@@ -1,0 +1,34 @@
+*{
+   margin: 0;
+   padding: 0; 
+}
+
+body{
+    background-color: white;
+    
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 80px;
+    background-color:#C0C0C0;
+    font-family: "Story Script" , sans-serif;
+}
+
+nav ul{
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li{
+    list-style: none;
+    margin: 0 35px;
+    font-size: 1.2rem;
+}
+
+.left{
+    font-size: 2.5rem;
+    font-weight: bold;
+}
