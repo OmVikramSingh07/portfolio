@@ -58,8 +58,8 @@ nav ul li{
 } */
 
 .rightSection{
-    background-image: url(IMG_20250830_210925.jpg);
     background-size: cover;
     border-radius: 15px;
-    
+    height: 40rem;
+    width: 20rem;
 }
